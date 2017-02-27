@@ -1,9 +1,9 @@
 
-# Project Title goes here
+# Address Book
 
-#### Date and version goes here
+#### Feb. 27, 2017
 
-#### By _Alex Lee_
+#### By _Josh Linton and Chris Wainner_
 
 ## Description
 
